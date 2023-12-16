@@ -11,3 +11,6 @@ I drew this originally in Eagle, but the committed project is for KiCad.  KiCad 
 
 All the same, I preserved the bulk of the Eagle files in the `retired/` folder, just in case.  They show signs of sequential-numbering version control...
 
+## Pictures
+![front](resources/dimmer_front.png)
+![back](resources/dimmer_back.png)
