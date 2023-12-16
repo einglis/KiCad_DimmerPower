@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "dimmerPower9-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/dimmerPower9-eagle-import.kicad_sym")(options "")(descr ""))
+)
